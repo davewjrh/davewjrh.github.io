@@ -1,2 +1,2 @@
-# davewjrh.github.io
-GitHub Pages
+# [DaveWJRH](https://davewjrh.ca)
+Aspiring coder & casual gamer.
